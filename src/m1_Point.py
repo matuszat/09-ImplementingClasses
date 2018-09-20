@@ -8,7 +8,7 @@ NOTE: This is NOT rosegraphics -- it is your OWN Point class.
 
 Authors: David Mutchler, Vibha Alangar, Dave Fisher, Amanda Stouder,
 
-         their colleagues and Ethan Carter.
+         their colleagues and Austin Matuszxewski.
 
 """  # Done: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
